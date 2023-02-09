@@ -1,0 +1,155 @@
+body{
+    margin:0;
+    text-align: center;
+    /* background-color:#9EA1D4; */
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+    color: #40514e;
+}
+a{
+    color: #6C4AB6;
+    font-family: 'Montserrat' sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:white;
+}
+h1{
+    color: #6C4AB6;
+    font-size: 6rem;
+    /* 16px=100%=1em */
+    margin:50px auto 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #6C4AB6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #6C4AB6;
+    
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+}
+/* div{
+     background-color:#9EA1D4;} */
+
+.top-container{
+    background-color: #9EA1D4;
+    position:relative;
+    padding-top:100px;
+
+}
+.middle-container{
+    /* background-color: #9EA1D4; */
+    margin:100px 0;
+
+}
+
+.bottom-container{
+    background-color: #9EA1D4;
+    padding:50px 0 20px;
+}
+.per{
+    text-decoration: underline;
+}
+/* .top-cloud{
+    position: absolute;
+    right:200px;
+    top: 100px;
+    width:20%;
+}
+.bottom-cloud{
+    position:absolute;
+    top:100px;
+    left:250px;
+    width:20%;
+}
+.middle-mountain{
+    left:100px;
+    top:200px;
+} */
+
+.top-shelf{
+    position:absolute;
+    right:50px;
+}
+.bottom-shelf{
+    position:absolute;
+    top:100px;
+    right:1000px;
+}
+.skill-row{
+    width:55%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
+.contact{
+    width:40%;
+    margin:40px auto 60px;
+}
+
+.webd{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+.bb{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+.me{
+    width:25%;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+.p{
+    line-height: 2;
+}
+.copyright{
+    color:white;
+    font-size: 0.75rem;
+    padding:20px 0;
+}
+/* automatically generated code form a site:css3buttongenerator.com */
+.btn {
+    background: #8D72E1;
+    background-image: -webkit-linear-gradient(top, #8D72E1, #7978FF);
+    background-image: -moz-linear-gradient(top, #8D72E1, #7978FF);
+    background-image: -ms-linear-gradient(top, #8D72E1, #7978FF);
+    background-image: -o-linear-gradient(top, #8D72E1, #7978FF);
+    background-image: linear-gradient(to bottom, #8D72E1, #7978FF);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat' sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #937DC2;
+    background-image: -webkit-linear-gradient(top, #937DC2, #8758FF);
+    background-image: -moz-linear-gradient(top, #937DC2, #8758FF);
+    background-image: -ms-linear-gradient(top, #937DC2, #8758FF);
+    background-image: -o-linear-gradient(top, #937DC2, #8758FF);
+    background-image: linear-gradient(to bottom, #937DC2, #8758FF);
+    text-decoration: none;
+  }
